@@ -1,0 +1,57 @@
+
+
+
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+/* Logo styles */
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center; 
+}
+
+/* Navigation styles */
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+/* Unordered list in the navigation */
+ul {
+    width: 50%;
+    margin-left: auto; 
+}
+
+/* Hero Image section styles */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+/* Content inside the hero image */
+.content {
+    width: 500px;
+    margin: 0 auto; 
+}
+
+/* Footer styles */
+footer {
+    background-color: #373738;
+    padding: 20px; 
+    text-align: center;
+}
+
+/* Unordered list inside the footer */
+footer ul {
+    display: inline-block; 
+    vertical-align: top;
+    padding: 0; 
+}
+
+/* List items inside the footer */
+footer ul li {
+    padding: 10px 15px; 
+}
